@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Hello, Navyaa Yadavvvv 
 How are you doing ? 
+=======
+Updated content
+>>>>>>> Stashed changes
